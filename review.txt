@@ -16,3 +16,6 @@ print(""Tableau de bord", '-'*57, "                moy min max")
 N'a pas utiliser la fonction min
 N'a pas utiliser la fonction max
 N'a pas utiliser la fonction mean de statistic
+
+Code non scalable
+/24 est une valeur qui est codé en dure si on a 25 valeur cela ne fonctionnera plus
