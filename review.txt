@@ -1,0 +1,18 @@
+Code corrigé : Damien Ipranossian
+  
+Utilisation de mot clé utiliser par python pour des variables (lignes 4 et 5)
+Possiblité de definir recherche en moins de ligne :
+
+exemple :
+  for num_chambrefroide in range(nb_chambre):
+
+    recherche = 'chambrefroide0' + str(num_chambrefroide)
+
+Possible d'imprimer l'en-tete en une ligne : 
+
+exemple :
+print(""Tableau de bord", '-'*57, "                moy min max")
+
+N'a pas utiliser la fonction min
+N'a pas utiliser la fonction max
+N'a pas utiliser la fonction mean de statistic
